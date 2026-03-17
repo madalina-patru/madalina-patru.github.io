@@ -74,7 +74,7 @@ body {
   color: var(--color-nav-hover);
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 
 .sidebar__dept {
@@ -83,12 +83,13 @@ body {
   color: #fff;
   letter-spacing: 0.02em;
   line-height: 1.4;
-  margin-bottom: 2rem;
+  margin-bottom: 0;
 }
 
 .sidebar__nav {
   list-style: none;
   flex: 1;
+  margin-top: 2rem;
 }
 
 .sidebar__nav li {
