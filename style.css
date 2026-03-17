@@ -68,21 +68,21 @@ body {
   margin-bottom: 0.35rem;
 }
 
-.sidebar__dept {
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: #fff;
-  letter-spacing: 0.02em;
-  line-height: 1.4;
-  margin-bottom: 0.25rem;
-}
-
 .sidebar__title {
   font-size: 0.75rem;
   font-weight: 300;
   color: var(--color-nav-hover);
   letter-spacing: 0.05em;
   text-transform: uppercase;
+  margin-bottom: 0.25rem;
+}
+
+.sidebar__dept {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #fff;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
   margin-bottom: 2rem;
 }
 
